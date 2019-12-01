@@ -1,0 +1,11 @@
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\bin\Debug\OSI_Calculator_Exceptions.exe.config
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\bin\Debug\OSI_Calculator_Exceptions.exe
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\bin\Debug\OSI_Calculator_Exceptions.pdb
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\obj\Debug\OSI_Calculator_Exceptions.csprojAssemblyReference.cache
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\obj\Debug\OSI_Calculator_Exceptions.Properties.Resources.resources
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\obj\Debug\OSI_Calculator_Exceptions.csproj.GenerateResource.cache
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\obj\Debug\OSI_Calculator_Exceptions.exe
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\obj\Debug\OSI_Calculator_Exceptions.pdb
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\obj\Debug\OSI_Calculator_Exceptions.Form_Calc.resources
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\obj\Debug\OSI_Calculator_Exceptions.Form_expression.resources
+C:\Users\Sova IS\source\repos\OSI_Calculator_Exceptions\OSI_Calculator_Exceptions\obj\Debug\OSI_Calculator_Exceptions.MSDI_Form.resources

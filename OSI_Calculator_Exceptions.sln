@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSI_Calculator_Exceptions", "OSI_Calculator_Exceptions\OSI_Calculator_Exceptions.csproj", "{39B33D06-2CCD-4173-88AD-C88E03DCCEB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{53BF4269-D385-4D8C-BB8C-897C9E4FC8B6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Тест(арккос не от (-1;1) ).png = ..\..\..\Desktop\Тест(арккос не от (-1;1) ).png
+		..\..\..\Desktop\тест(выражение)№1.png = ..\..\..\Desktop\тест(выражение)№1.png
+		..\..\..\Desktop\Тест(выражение)№2.png = ..\..\..\Desktop\Тест(выражение)№2.png
+		..\..\..\Desktop\Тест(деление на ноль с выводом аргументов).png = ..\..\..\Desktop\Тест(деление на ноль с выводом аргументов).png
+		..\..\..\Desktop\Тест(корень из отриц числа).png = ..\..\..\Desktop\Тест(корень из отриц числа).png
+		..\..\..\Desktop\Тест(переполнение double).png = ..\..\..\Desktop\Тест(переполнение double).png
+		..\..\..\Desktop\Тест(тангенс пи на 2).png = ..\..\..\Desktop\Тест(тангенс пи на 2).png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B33D06-2CCD-4173-88AD-C88E03DCCEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B33D06-2CCD-4173-88AD-C88E03DCCEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B33D06-2CCD-4173-88AD-C88E03DCCEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B33D06-2CCD-4173-88AD-C88E03DCCEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88C4B554-6B5F-4E1C-9FC5-ED9D3C81727A}
+	EndGlobalSection
+EndGlobal
